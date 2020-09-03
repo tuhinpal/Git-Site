@@ -11,7 +11,7 @@ Git-Site
 <br>
 
 
-### How to Create Your own Site: <br><br>
+### Creating Your own Site: <br><br>
 1 .  Fork this Repo.<br>
 2 . (Optional) Change your Repository name to <tt>yourusername.github.io</tt> in Settings.<br>
 3 . Edit <tt>main.js</tt> and add your Github Username & Email Address in <tt>Github_Username </tt> & <tt>Email_Id</tt> Section.<br>
@@ -63,10 +63,3 @@ https://jeet-private.github.io/
   </a>
   
 </p>
-
-
-
-
-
-
-
