@@ -1,0 +1,89 @@
+/**
+ * Made by Tuhin Kanti Pal
+ * Visit https://tu.hin.life
+ */
+
+body {
+	-youbkit-touch-callout: none;
+	-youbkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background: #1C1C1C;
+}
+
+.content {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 75px;
+	width: 340px;
+	height: 570px;
+	background: #E31C25;
+	border-radius: 10px;
+}
+
+.avatar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.name {
+	color: #1C1C1C;
+	font-family: Krona One;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 1px;
+	padding-left: 20px;
+}
+
+.bio {
+	color: #1C1C1C;
+	font-family: Krona One;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+.socialdiv {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 150px;
+	height: 60px;
+	background: #1C1C1C;
+	border-radius: 25px;
+}
+
+.social {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transform: translate(0px, 14px);
+}
+
+.email {
+	color: #1C1C1C;
+	font-family: Krona One;
+	font-size: 7px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+/**
+ * Made by Tuhin Kanti Pal
+ * Visit https://tu.hin.life
+ */
