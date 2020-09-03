@@ -31,7 +31,7 @@ var Email_Id = "me@example.com";
 4 . Goto Github Pages Section in Settings and Enable it.<br><br>
 #### That's It !!!!<br><br>
 
-**It is  Using Github's API, So Whenever You Change Your Github Profile Pic / Bio Etc. The Same Will Updated on Your Website Also, Your valuable Time will Saved.**<br><br>
+**This is  using Github's API, So whenever you change your Github Profile Pic / Bio etc. The same will updated on your website also, your valuable time will saved.**<br><br>
 
 **This is my Website :**<br>
 https://jeet-private.github.io/
