@@ -34,7 +34,10 @@ var Email_Id = "me@example.com";
 **This is  using Github's API, So whenever you change your Github Profile Pic / Bio etc. The same will updated on your website also, your valuable time will saved.**<br><br>
 
 **This is my Website :**<br>
-https://jeet-private.github.io/
+https://jeet-private.github.io/ <br>
+or,<br>
+https://thetuhin.com/
+
 <br>
 <br>
 
