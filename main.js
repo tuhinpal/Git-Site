@@ -2,7 +2,7 @@
 const Github_Username = "cachecleanerjeet";
 
 //Replace With Your Own Email ID
-const Email_Id = "me@mailtuhin.ml";
+const Email_Id = "me@thetuhin.com";
 
 var xhr = new XMLHttpRequest();
 xhr.addEventListener("readystatechange", function() {

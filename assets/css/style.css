@@ -4,84 +4,95 @@
  */
 
 body {
-	-youbkit-touch-callout: none;
-	-youbkit-user-select: none;
-	-moz-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
-	background: #1C1C1C;
+    -youbkit-touch-callout: none;
+    -youbkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: #1C1C1C;
 }
 
 .content {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 75px;
-	width: 340px;
-	height: 570px;
-	background: #E31C25;
-	border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    width: 340px;
+    background: #E31C25;
+    border-radius: 10px;
+    padding-top: 30px;
 }
 
 .avatar {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
 }
 
 .name {
-	color: #1C1C1C;
-	font-family: Krona One;
-	font-size: 25px;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 15px;
-	padding-right: 20px;
-	padding-bottom: 1px;
-	padding-left: 20px;
+    color: #1C1C1C;
+    font-family: Krona One;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 20px 1px 20px;
 }
 
 .bio {
-	color: #1C1C1C;
-	font-family: Krona One;
-	font-size: 15px;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 10px;
-	padding-right: 20px;
-	padding-bottom: 10px;
-	padding-left: 20px;
+    color: #1C1C1C;
+    font-family: Krona One;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px;
 }
 
 .socialdiv {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 30px;
-	width: 150px;
-	height: 60px;
-	background: #1C1C1C;
-	border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 150px;
+    height: 60px;
+    background: #1C1C1C;
+    border-radius: 25px;
 }
 
 .social {
-	text-align: center;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	transform: translate(0px, 14px);
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(0px, 14px);
 }
 
 .email {
-	color: #1C1C1C;
-	font-family: Krona One;
-	font-size: 7px;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 10px;
-	padding-right: 20px;
-	padding-bottom: 10px;
-	padding-left: 20px;
+    color: #1C1C1C;
+    font-family: Krona One;
+    font-size: 7px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px 30px 20px;
 }
+
+.email:hover {
+    color: #2c2828;
+}
+
+.socialbtn:hover {
+    transform: translate(0px, -3px);
+    animation-name: headsup;
+    animation-duration: 0.3s;
+}
+
+@keyframes headsup {
+    from {
+        transform: translate(0px, 0px);
+    }
+    to {
+        transform: translate(0px, -3px);
+    }
+}
+
 
 /**
  * Made by Tuhin Kanti Pal
